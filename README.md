@@ -1,1 +1,1 @@
-# yolov10_model
+# yolov10n.pt model , available for download
